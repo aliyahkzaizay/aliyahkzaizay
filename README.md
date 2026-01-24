@@ -25,6 +25,7 @@ I enjoy building thoughtful web apps that blend engineering and design.
 
 ### 🌱 Currently Learning
 - Backend development with Python
+- React
 - System design basics
 - DevOps & automation concepts
 
