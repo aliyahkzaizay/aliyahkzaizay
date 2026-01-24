@@ -20,7 +20,7 @@ Computer Science student at RPI with a minor in Graphic Design.
 I enjoy building thoughtful web apps that blend engineering and design.
 
 ### 🔭 Currently Working
-- Portfolio Website
+- **DriveSmart** — gamified learning platform
 
 
 ### 🌱 Currently Learning
@@ -31,7 +31,7 @@ I enjoy building thoughtful web apps that blend engineering and design.
 
 ### 📌 A few things I'm proud of
 - **RPI Dorms** — campus exploration web app
-- **DriveSmart** — gamified learning platform
+- Portfolio Website
 - Multiple frontend + design-focused projects
 
 ### 🛠 Tech Stack
